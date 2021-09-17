@@ -22,6 +22,6 @@
  
  ##
 
-- 🔭 I’m currently working on Activities Manager App (React + Java)
-- 🌱 I’m currently learning Docker + AWS
-- 👯 I’m looking to collaborate on Open Source projects
+- 🔭 I’m currently working on **Activities Manager App (React + Java)**
+- 🌱 I’m currently learning **Docker + AWS**
+- 👯 I’m looking to collaborate on **Open Source projects**
