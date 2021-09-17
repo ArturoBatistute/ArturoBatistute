@@ -10,6 +10,11 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
  
+ <div> 
+    <a href="https://www.linkedin.com/in/arturo-h-batistute/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://arturobatistute.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+ </div>
+ 
 
 - 🔭 I’m currently working on Activities Manager App (React + Java)
 - 🌱 I’m currently learning Docker + AWS
